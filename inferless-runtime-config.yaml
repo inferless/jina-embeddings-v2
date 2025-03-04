@@ -2,3 +2,5 @@ build:
   cuda_version: "12.1.1"
   python_packages:
     - "sentence-transformers==2.6.0"
+    - "hf-transfer==0.1.9"
+    - "huggingface-hub==0.29.1"
